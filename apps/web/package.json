@@ -1,0 +1,13 @@
+{
+  "name": "@example/web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@example/greeting": "1.0.0",
+    "express": "5.3.0"
+  }
+}
